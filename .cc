@@ -19,7 +19,7 @@ int main()
         Grade = 'B'-Well done;
     }
 
-    else if (x >= 60 && x <69)
+    else if (x >= 60 && x <=69)
     {
         Grade = 'C'-You can do better;
     }
@@ -38,8 +38,6 @@ int main()
         Grade = 'F';
     }
 
-
-   ;
 
 
     }
